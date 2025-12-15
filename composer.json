@@ -1,0 +1,32 @@
+{
+    "name": "brookedot/weather-machine",
+    "type": "library",
+    "description": "PHP wrapper for the Weather Machine API",
+    "keywords": [
+        "weather",
+        "weather-machine-php",
+        "api",
+        "forecast"
+    ],
+    "homepage": "https://github.com/BrookeDot/weather-machine-php",
+    "license": "GNU Affero General Public License v3.0 or later",
+    "authors": [
+        {
+            "name": "Brooke.",
+            "email": "brookedot@pm.me",
+            "homepage": "https://broo.ke",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^8.2",
+        "symfony/http-client": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "BrookeDot\\WeatherMachine\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
