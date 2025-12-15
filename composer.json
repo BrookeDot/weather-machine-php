@@ -9,7 +9,7 @@
         "forecast"
     ],
     "homepage": "https://github.com/BrookeDot/weather-machine-php",
-    "license": "GNU Affero General Public License v3.0 or later",
+    "license": "AGPL-3.0",
     "authors": [
         {
             "name": "Brooke.",
